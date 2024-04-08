@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# constants
+constants
+
 # testing
 /coverage
 
